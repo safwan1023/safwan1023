@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=safwan1023&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
   <a href="mailto:mohammedsafwan820@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail">
   </a>
@@ -35,7 +39,7 @@
 Python • C++ • JavaScript • SQL  
 
 ### 🧠 Core Areas  
-Machine Learning • Artificial Intelligence • DBMS • Data Structures 
+Machine Learning • Artificial Intelligence • Basic Data Structures • DBMS  
 
 ### 🌐 Web Development  
 HTML • CSS • React • Node.js  
