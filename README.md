@@ -35,7 +35,7 @@
 Python • C++ • JavaScript • SQL  
 
 ### 🧠 Core Areas  
-Machine Learning • Artificial Intelligence • Basic Data Structures • DBMS  
+Machine Learning • Artificial Intelligence • DBMS • Data Structures 
 
 ### 🌐 Web Development  
 HTML • CSS • React • Node.js  
