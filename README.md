@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mohammedsafwan820@gmail.com">
+  <a href="mailto:mohammedsafwan820@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/mohammed-safwan-125297292/">
