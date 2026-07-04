@@ -47,32 +47,52 @@ MongoDB • Streamlit • Matplotlib • Power BI • WEKA
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Website Builder
-- Generates complete websites using natural language input  
-- Converts user instructions into frontend components  
-- Backend built with Node.js for processing and integration  
-- Supports real-time preview and deployment  
+# 🚀 Featured Projects
+
+## 🎤 AI Mock Interview Platform
+
+- Built a full-stack AI-powered interview preparation platform
+- Supports Technical, Coding and HR interview modes
+- Integrated Google Gemini AI for interview generation
+- Resume-based interview generation
+- Coding assessment using Monaco Editor
+- Performance analytics dashboard
+- Authentication using Clerk
+- PostgreSQL database
+- Deployed on Vercel
+
+**Tech Stack**
+
+Next.js • React • PostgreSQL • Prisma • Clerk • Gemini AI • Tailwind CSS
 
 ---
 
-### 🌬️ Wind Turbine Power Prediction
-- Machine Learning model using Random Forest  
-- Preprocessed real-world SCADA data  
-- Evaluated using MAE, RMSE, and R²  
-- Built Streamlit app for prediction & visualization  
-- Used SHAP for model explainability  
+## 🚨 AI-Based Crisis Response & Resource Distribution System
+
+- AI-powered disaster response platform
+- Optimized emergency vehicle routing using Dijkstra & A*
+- Vehicle Routing Problem (VRP) optimization using Google OR-Tools
+- Interactive GIS dashboard
+- Resource allocation for ambulances and rescue teams
+
+**Tech Stack**
+
+Python • NetworkX • OSMnx • GeoPandas • Google OR-Tools • Folium
 
 ---
 
-### 🏎️ F1 Race Strategy Optimization
-- Reinforcement Learning-based system using PPO  
-- Simulated tyre wear, fuel usage, and pit strategies  
-- Optimized race time using AI agent  
-- Compared against rule-based strategies  
-- Built dashboard for analytics using Streamlit  
+## 🌱 GreenWatt – Wind Turbine Power Prediction
 
----
+- Machine Learning model for wind power prediction
+- SCADA data preprocessing
+- Random Forest Regression
+- Streamlit deployment
+- SHAP explainability
+- MAE, RMSE and R² evaluation
 
+**Tech Stack**
+
+Python • Scikit-learn • Streamlit • SHAP
 ## 📜 Certifications
 - Machine Learning Program – EdiGlobe  
 - Artificial Intelligence – IBM SkillsBuild  
